@@ -21,21 +21,7 @@ Hikes are stored in a BST sorted first by length (ascending), then by review sco
 - Comprehensive test suite
 
 ---
-
-## 📁 Project Structure
-
-```plaintext
-HikeCollectionManager/
-├── Hike.java              # Represents a single hike
-├── CollectionManager.java # Manages the BST of Hikes
-├── Client.java            # Sample client interface
-├── Testing.java           # Unit tests for the application
-├── InOrder.txt      # Sample hike data
-├── NatPark.txt
-└── README.md
----
-
-## 📄 Class Breakdown
+## Class Breakdown
 
 ### `Hike.java`
 Defines the `Hike` class and its comparison logic. Implements:
@@ -81,5 +67,20 @@ Use `filter(maxLength, minReview)` to get a list of hikes that meet your criteri
 
 ```java
 List<Hike> scenicShortHikes = manager.filter(4.0, 4);
+```
+---
+## Project Structure
+
+```plaintext
+HikeCollectionManager/
+├── Hike.java              # Represents a single hike
+├── CollectionManager.java # Manages the BST of Hikes
+├── Client.java            # Sample client interface
+├── Testing.java           # Unit tests for the application
+├── InOrder.txt      # Sample hike data
+├── NatPark.txt
+└── README.md
+```
+---
 
 
