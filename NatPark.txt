@@ -1,0 +1,24 @@
+Hike: Angels Landing 
+Miles: 5.4 
+Review: 4.8
+Hike: Half Dome via John Muir Trail 
+Miles: 14.2 
+Review: 4.7
+Hike: The Narrows 
+Miles: 9.4 
+Review: 4.9
+Hike: Bright Angel Trail 
+Miles: 9.0 
+Review: 4.6
+Hike: Cascade Pass and Sahale Arm 
+Miles: 7.4 
+Review: 4.8
+Hike: Grinnell Glacier Trail 
+Miles: 7.6 
+Review: 4.7
+Hike: Mount Rainier Skyline Trail 
+Miles: 5.5 
+Review: 4.9
+Hike: Hidden Lake Trail 
+Miles: 3.0 
+Review: 4.8
